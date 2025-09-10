@@ -77,3 +77,12 @@ Compute absolute difference between current frame and background
 Apply thresholding and dilation to detect motion regions
 
 Draw bounding boxes around moving objects
+
+demo
+<img width="1737" height="1079" alt="Screenshot 2025-09-10 054908" src="https://github.com/user-attachments/assets/13f8cb03-af78-48a8-b649-beb5396b3592" />
+
+<img width="1893" height="1079" alt="Screenshot 2025-09-10 054924" src="https://github.com/user-attachments/assets/1a41a2ac-f771-4efa-b852-2801cd9047de" />
+<img width="1916" height="1079" alt="Screenshot 2025-09-10 054839" src="https://github.com/user-attachments/assets/8ddcf970-f9a6-41d1-9a71-1e8ec8cbc53c" />
+
+
+
